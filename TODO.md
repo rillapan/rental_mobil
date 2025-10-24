@@ -1,0 +1,5 @@
+- [x] Edit index.php: Change <div class="container mt-4"> to <div class="container-fluid mt-4">
+- [x] Edit detail.php: Change <div class="container mt-5"> to <div class="container-fluid mt-5">
+- [x] Edit booking.php: Change <div class="container"> to <div class="container-fluid">
+- [x] Edit blog.php: Change <div class="container my-4"> to <div class="container-fluid my-4">
+- [x] Test the changes by running the site
